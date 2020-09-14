@@ -1,2 +1,2 @@
-# AIM-Password-Generator
-https://fga-god.github.io/AIM-Password-Generator/
+# **PASSWORD GENERATOR**
+This is a very **Simple** and **Minimalist** design of a Password Generator!
